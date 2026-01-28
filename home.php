@@ -3,6 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <title>Home Page</title>
+    <style>
+		body{
+			background: crimson;
+			color: white;
+			font: bold;
+			margin: 20px;
+		}
+	</style>
 </head>
 <body>
     <h1>Welcome to the Home Page</h1>
